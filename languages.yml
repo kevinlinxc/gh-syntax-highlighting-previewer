@@ -1,5 +1,5 @@
 # Defines all Languages known to GitHub.
-# Downloaded from https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
+# Downloaded from https://github.com/github/linguist/blob/master/lib/linguist/languages.yml. Create an issue if this becomes outdated.
 ---
 1C Enterprise:
   type: programming
